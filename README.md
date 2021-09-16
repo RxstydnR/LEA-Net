@@ -27,6 +27,7 @@ https://github.com/machine-perception-robotics-group/attention_branch_network
 This is `tf.keras` implementation. Requirements of Tensorflow/Keras version are as follows: 
 
 - Tensorflow : 2.3.0
+- Tensorflow-gpu : 2.3.0
 - Keras : 2.4.3
 - Python : 3.6.10  
 
