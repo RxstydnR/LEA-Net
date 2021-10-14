@@ -3,7 +3,7 @@
 LEA-Net: Layer-wise External Attention Network for Efficient Color Anomaly Detection <br>
 [Ryoya Katafuchi](https://github.com/RxstydnR), [Terumasa Tokunaga](https://researchmap.jp/7000007131)
 
-\[[arXiv paper]()\]
+\[[arXiv paper](https://arxiv.org/abs/2109.05493)\]
 
 <img src="figure/Overview.png" width=100%>
 
