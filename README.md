@@ -29,6 +29,7 @@ This is `tf.keras` implementation. Requirements of Tensorflow/Keras version are 
 - Tensorflow : 2.3.0
 - Tensorflow-gpu : 2.3.0
 - Keras : 2.4.3
+- Keras-gpu : 2.4.3
 - Python : 3.6.10  
 
 
