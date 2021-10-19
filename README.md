@@ -103,3 +103,10 @@ Copyright (c) 2021 Ryoya Katafuchi
 This repository is released under the MIT License, see LICENSE.
 ```
 
+## ACKNOWLEDGMENTS
+
+```
+This work was supported by JST, PRESTO Grant Number JPMJPR1875, Japan.
+```
+
+
